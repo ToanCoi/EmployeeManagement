@@ -1,0 +1,26 @@
+- Thêm cột STT
+- Sửa click dòng, focus dòng , có background, checkbox được check
+- Bổ sung icon thùng rác gần xuất khẩu, xóa nhiều
+- Check khi click vào icon thùng rác ( nếu không chọn thì chưa cho xóa, ..)
+- Bổ sung tooltip vào các icon và chữ viết tắt
+- Refresh bỏ chọn, auto select bản ghi đầu 
+- Chỉnh chiều cao dòng 
+- Chỉnh icon search
+- Tăng chiều cao các ô input
+- Để auto Nam
+- Tự động bôi đen khi focus input
+- Tooltip tự động show
+- Họ tên tự động format chuỗi khi nhập
+- Ngày tháng tự động sinh dấu / khi gõ, không cho nhập sai, 
+- Validte độ dài : Mã 50, Tên : 100, ...
+- Validate nhập số dt ( không cho nhập chữ )
+- Validate email 
+- Nhân bản tự động xóa họ tên
+- THi công contextMenu ( chuột phải )
+- Sửa style giao diện form
+- Thay đổi select dựa vào chột lên , xuống
+- Multiselect shift, ctrl
+- Xóa show sweet alert ( 3 giây tự tắt )
+- Sửa header viết thường, thêm border các row, bỏ border dọc
+- Grid full màn
+- 

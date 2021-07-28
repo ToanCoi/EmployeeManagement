@@ -1,0 +1,57 @@
+.btn {
+    border-radius: 4px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 0 16px;
+    font-family: 'Notosans-semibold';
+}
+
+/* .btn:focus-visible {
+    border: 1px solid #2ca01c;
+    outline: none;
+} */
+
+.btn-primary {
+    border: 1px solid transparent;
+    color: #fff;
+    background-color: #2ca01c;
+}
+
+.btn-primary:hover, .btn-primary:focus-visible {
+    background-color: #35bf22;
+    outline: none;
+}
+
+.btn-primary:active {
+    background-color: #248b15;
+}
+
+.btn-default {
+    border: 1px solid #8d9096;
+    color: #111;
+    background-color: transparent;
+}
+
+.btn-default:hover, .btn-default:focus-visible {
+    background-color:rgba(0, 0, 0, 0.08);
+    outline: none;
+}
+
+.btn-default:active {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-danger {
+    background-color: #f65454;
+    color: #fff;
+}
+
+.btn-danger:hover {
+    background-color: #fa7e7e;
+}
+
+.btn-danger:active {
+    background-color: #f65454;
+}
